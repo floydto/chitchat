@@ -1,0 +1,14 @@
+html, body, .Register {
+    height: 100vh;
+    background: #EEEEEE;
+    padding: 1em;
+}
+
+.reg-container {
+    display: flex;
+    justify-content: center;
+}
+
+.uploadBtn {
+    display: none;
+}

@@ -1,1 +1,1 @@
-# ChitChat2
+A live chatroom for people to chat.

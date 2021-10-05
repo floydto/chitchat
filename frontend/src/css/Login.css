@@ -1,0 +1,32 @@
+.login-container{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-inputs{
+    width: 250px;
+    height: 30px;
+    margin: 10px;
+    border: 1px 
+}
+
+.show-hide-password{
+    display: flex;
+    justify-content:  flex-start;
+}
+
+.password-icons{
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+
+.userCardTitle {
+    margin-top: .5rem;
+    font-weight: 600;
+    width: 100%;
+    margin: auto;
+    color:#5455a9
+}

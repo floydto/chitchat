@@ -1,0 +1,5 @@
+html, body, .loading {
+    height: 100vh;
+    background: #EEEEEE;
+    padding: 1em;
+}

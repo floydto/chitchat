@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+    
+    express-deployment:
+        environment: 
+            POSTGRES_USER: postgres
+            POSTGRES_PASSWORD: postgres
+            POSTGRES_DB: final_project
+            POSTGRES_HOST: postgres
+            NODE_ENV: production
+            PORT: 8080
+        depends_on: 
+            - postgres
+        build:
+            context: ./
+            dockerfile: ./Dockerfile
+        image: "floydto/deployment:latest"
+        ports:
+            - "8080:8080"
+
+    postgres:
+        image: "postgres:13"
+        environment:
+            POSTGRES_USER: postgres
+            POSTGRES_PASSWORD: postgres
+            POSTGRES_DB: final_project
+        ports:
+            - "5432:5432"
+        volumes:
+            - ./pgdata:/var/lib/postgresql/data
+
+            

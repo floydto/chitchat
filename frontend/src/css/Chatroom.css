@@ -1,0 +1,27 @@
+/* SidePanel.tsx */
+
+.menu {
+    padding-bottom: 2em;
+}
+
+/* MessageForm.tsx */
+
+.message__form {
+    position: fixed !important;
+    bottom: 1em;
+    margin-left: 320px !important;
+    left: 0;
+    right: 1em;
+    z-index: 200;
+}
+
+/* Message.tsx */
+
+.message__self {
+    border-left: 2px solid orange;
+    padding-left: 8px;
+}
+
+.message__image {
+    padding: 1em;
+}

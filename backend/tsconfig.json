@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "sourceMap": true,
+        "allowJs": false,
+        "jsx": "react",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "noImplicitReturns": false,
+        "noImplicitThis": false,
+        "noImplicitAny": false,
+        "strictNullChecks": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "noUnusedLocals": false
+    },
+    "exclude": [
+        "node_modules",
+        "build",
+        "scripts",
+        "index.js"
+    ]
+}
