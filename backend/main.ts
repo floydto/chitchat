@@ -2,7 +2,6 @@ import express from "express"
 import bodyParser from 'body-parser';
 import knexConfigs = require('./knexfile');
 import multer from 'multer';
-import path from 'path';
 import Knex from 'knex';
 import cors from "cors"
 import http from 'http';
@@ -44,6 +43,8 @@ const storage = multer.diskStorage({
 export const upload = multer({ storage: storage })
 
 app.use(express.static("public/uploads"));
+
+
 // Register route, service, controller
 import { RegisterRoute } from './routes/register.routes';
 import RegisterService from './services/register.service';

@@ -72,6 +72,7 @@ const Register = () => {
             confirmPassword: ""
         }
     })
+    
     const onSubmit = async (data: any) => {
         setSubmitting(true)
         setServerErrors([])

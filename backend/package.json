@@ -43,7 +43,7 @@
     "react-scroll-to-bottom": "^4.0.0",
     "socket.io": "^3.0.3",
     "timezone-date.ts": "^0.1.2",
-    "ts-node": "^9.0.0",
+    "ts-node": "^10.2.1",
     "ts-node-dev": "*",
     "typescript": "^4.0.5"
   },
