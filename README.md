@@ -5,3 +5,5 @@ ChitChat is a full-stack apps with React, Redux and Firebase, among other tools 
 stack: React(Typescript), React Hooks, Redux, Redux thunk, CSS, Semantic UI, Material UI Javascript, Typescript, Bootstrap, Node.js(Typescript), Express(RESTful API), Knex(QueryBuilder), Firebase, Firebase Firestore, Md5, Mime, Moment, MVC Framework, EmojiMart,  PostgreSQL, Multer, Docker, JSON Web Tokens, GitLab(CI/CD), AWS(EC2, S3, CloudFront, IAM, Route53)
 
 <img width="1098" alt="Screenshot 2021-12-15 at 12 45 09 AM" src="https://user-images.githubusercontent.com/69040807/146041642-721f3316-653d-4a5d-97f8-211851faf3b5.png">
+<img width="768" alt="Screenshot 2021-12-15 at 12 46 56 AM" src="https://user-images.githubusercontent.com/69040807/146041948-d4a02c47-a524-4d0c-ae21-d286f70a160e.png">
+<img width="704" alt="Screenshot 2021-12-15 at 12 47 20 AM" src="https://user-images.githubusercontent.com/69040807/146042019-c8272d50-61b1-4604-b47b-9ad1a60618c7.png">
