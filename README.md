@@ -7,5 +7,3 @@ stack: React(Typescript), React Hooks, Redux, Redux thunk, CSS, Semantic UI, Mat
 <img width="728" alt="Screenshot 2021-12-15 at 12 49 05 AM" src="https://user-images.githubusercontent.com/69040807/146042346-52909976-3688-4b40-950a-c1bb90c51289.png">
 
 <img width="728" alt="Screenshot 2021-12-15 at 12 49 30 AM" src="https://user-images.githubusercontent.com/69040807/146042418-467707de-81e4-4521-ae75-a9e8ef49bf2a.png">
-
-<img width="704" alt="Screenshot 2021-12-15 at 12 47 20 AM" src="https://user-images.githubusercontent.com/69040807/146042019-c8272d50-61b1-4604-b47b-9ad1a60618c7.png">
